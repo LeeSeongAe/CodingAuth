@@ -51,6 +51,7 @@
 		4D5645952534233F005EAB63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4D5645A525342BC1005EAB63 /* 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		4D7C9F42253586850045DDA6 /* 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4D7C9F4C253595F30045DDA6 /* 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +137,7 @@
 			children = (
 				4D5645A525342BC1005EAB63 /* 1.playground */,
 				4D7C9F42253586850045DDA6 /* 2.playground */,
+				4D7C9F4C253595F30045DDA6 /* 3.playground */,
 			);
 			path = programmers;
 			sourceTree = "<group>";
