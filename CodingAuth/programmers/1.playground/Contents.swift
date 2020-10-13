@@ -17,7 +17,7 @@ class MyViewController : UIViewController {
         label.textColor = .black
         
         let label2 = UILabel()
-        label2.frame = CGRect(x: 150, y: 250, width: 300, height: 30)
+        label2.frame = CGRect(x: 120, y: 250, width: 400, height: 30)
         let testCase = [2, 3, 4, 5, 6] // 테스트 케이스 값
         let strArray = solution(testCase)
         let str = strArray.map(String.init)

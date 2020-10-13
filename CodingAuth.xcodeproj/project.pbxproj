@@ -50,6 +50,7 @@
 		4D5645932534233F005EAB63 /* CodingAuthUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodingAuthUITests.swift; sourceTree = "<group>"; };
 		4D5645952534233F005EAB63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4D5645A525342BC1005EAB63 /* 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4D7C9F42253586850045DDA6 /* 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,7 +101,7 @@
 		4D5645702534233E005EAB63 /* CodingAuth */ = {
 			isa = PBXGroup;
 			children = (
-				4D5645A425342350005EAB63 /* Programerce */,
+				4D5645A425342350005EAB63 /* programmers */,
 				4D5645712534233E005EAB63 /* AppDelegate.swift */,
 				4D5645732534233E005EAB63 /* SceneDelegate.swift */,
 				4D5645752534233E005EAB63 /* ViewController.swift */,
@@ -130,12 +131,13 @@
 			path = CodingAuthUITests;
 			sourceTree = "<group>";
 		};
-		4D5645A425342350005EAB63 /* Programerce */ = {
+		4D5645A425342350005EAB63 /* programmers */ = {
 			isa = PBXGroup;
 			children = (
 				4D5645A525342BC1005EAB63 /* 1.playground */,
+				4D7C9F42253586850045DDA6 /* 2.playground */,
 			);
-			path = Programerce;
+			path = programmers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
